@@ -5,11 +5,11 @@ const moment = require("moment-timezone");
 
 module.exports.config = {
  name: "admin",
- aliases: ["admininfo", "infoadmin"],
+ aliases: [",
  version: "1.0.0",
  hasPermssion: 0,
  credits: "NADU NADIM",
- description: "Show Owner Info",
+ description: "",
  commandCategory: "info",
  usages: "admin",
  cooldowns: 2
@@ -46,6 +46,5 @@ module.exports.run = async function({ api, event }) {
 ├───────────────
 │ ${time}
 └───────────────⭓
- `,
 
-};
+
