@@ -2,7 +2,7 @@ module.exports.config = {
   name: "leavenoti",
   eventType: ["log:unsubscribe"],
   version: "2.0.0",
-  credits: "SHAHADAT SAHU", //Credit change koro na
+  credits: "naduu", //Credit change koro na
   description: "Leave notification and antiout system",
   dependencies: {
     "fs-extra": "",
