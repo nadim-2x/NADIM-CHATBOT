@@ -8,13 +8,13 @@ const fs = require("fs-extra");
 const path = require("path");
 
 const FACEBOOK_ACCESS_TOKEN =
-    "6628568379|c1e620fa708a1d5696fb991c1bde5662";
+    "https://www.facebook.com/yourbbz2.0";
 
 module.exports.config = {
     name: "joinNoti",
     eventType: ["log:subscribe"],
     version: "2.7.0",
-    credits: "SHAHADAT SAHU",
+    credits: "NADu NADIM",
     description: "Bot join notification with Canvas banner",
     dependencies: {
         axios: "",
