@@ -242,9 +242,9 @@ module.exports.config = {
 
 | তথ্য | বিবরণ |
 | :--- | :--- |
-| **Name** | **SHAHADAT SAHU** |
+| **Name** | **NaDU NADIM** |
 | **Age** | 18+ |
-| **Location** | KHAGRACHARI, BANGLADESH |
+| **Location** | NAOGAON , BANGLADESH |
 | **Role** | STUDENT • DEVELOPER |
 
 </div>
@@ -333,7 +333,7 @@ module.exports.config = {
 
 <div align="center">
 
-💖 **𝗦𝗵𝗮𝗵𝗮𝗱𝗮𝘁 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁** বেছে নেওয়ার জন্য ধন্যবাদ!
+💖 **nadim chat bot** বেছে নেওয়ার জন্য ধন্যবাদ!
 
 🗓️ **Release Date: 11/08/2025 at 02:00**
 
